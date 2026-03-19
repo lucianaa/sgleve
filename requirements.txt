@@ -1,0 +1,8 @@
+pandas>=2.0
+pyarrow>=14.0
+scikit-learn>=1.4
+shap>=0.45
+streamlit>=1.35
+plotly>=5.20
+ydata-profiling>=4.6
+sweetviz>=2.3
