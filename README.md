@@ -58,4 +58,4 @@ streamlit run app/Home.py
 - Jupyter Notebook  
 - Bibliotecas principais:
   ```bash
-  pip install pandas numpy pyarrow fastparquet ydata-profiling sweetviz
+  pip install pandas numpy pyarrow fastparquet streamlit ydata-profiling sweetviz
