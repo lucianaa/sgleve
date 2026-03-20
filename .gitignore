@@ -2,5 +2,3 @@
 .ipynb_checkpoints/
 # Ignorar dados brutos
 data/*.csv
-#Parquets grandes tratados pelo LFS
-*.parquet filter=lfs diff=lfs merge=lfs -text
